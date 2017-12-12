@@ -1,0 +1,9 @@
+*.pyc
+*.idea
+data/
+*.npy
+*~
+log/
+*__pycache__/*
+*.pdf
+*.png
